@@ -79,3 +79,7 @@ Here are some ideas to get you started:
 
 </body>
 </html>
+
+## 🎮 Genshin Impact
+
+[Genshin Impact Official Website](https://genshin.hoyoverse.com/en/)
